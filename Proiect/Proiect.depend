@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1682688055 source:c:\users\elev.labs\documents\informatica\clasa xf\proiect\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<ctime>
+	<cstdlib>
+
