@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1685806464 source:c:\users\mincu\desktop\sgp\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<ctime>
+	<cstdlib>
+
